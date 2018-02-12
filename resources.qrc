@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/qqq" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
